@@ -1,4 +1,5 @@
 # Beer Song
+This exercise was solved as part of the [exercism.io Rust Track](https://exercism.io/my/tracks/rust).
 
 Recite the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.
 
